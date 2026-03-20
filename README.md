@@ -26,10 +26,13 @@ Fontes externas:
 
 ## Principais Achados
 
+- **Taxa de sobrevivência geral: 38,7%** — mais de 6 em cada 10 passageiros não sobreviveram
 - Passageiros de 1ª classe tiveram taxa de sobrevivência de **62,9%**, contra **24,2%** na 3ª classe
 - Mulheres sobreviveram a uma taxa de **74,2%**, frente a **18,9%** dos homens
 - Sobreviventes pagaram tarifa média **2,2x maior** que a dos não sobreviventes
+- A 1ª classe gerou a maior parte da receita com menos de 25% dos passageiros e teve a maior taxa de sobrevivência; a 3ª classe teve a menor receita, mais da metade dos passageiros e a pior taxa de sobrevivência
 - A tarifa mediana da 3ª classe equivale a aproximadamente **£ 1.700 em 2024**; a da 1ª classe ultrapassa **£ 10.000**
+- O desastre levou à criação da **Convenção SOLAS em 1914**, que passou a exigir botes salva-vidas suficientes para todos a bordo — antes disso, a regulação era baseada na tonelagem da embarcação, não no número de pessoas
 
 ## Requisitos
 
